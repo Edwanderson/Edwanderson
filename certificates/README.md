@@ -1,15 +1,14 @@
-## 🚀 Certificações
-
 - ## [Alura](https://cursos.alura.com.br/user/jedwanderson/fullCertificate/bfbc7d1cc1e8935af3a182cffc3078ac)
 <p align="left">
-  <img src="./certificates/jose-edwanderson-do-amaral-curso-ejb-com-java-ee-8-api-rest-com-wildfly-15-alura.png" alt="Certificado 3" />
-  <img src="./certificates/jose-edwanderson-do-amaral-curso-java-e-jpa-otimizacoes-com-jpa2-e-hibernate-alura.png" alt="Certificado 4" />
-  <img src="./certificates/jose-edwanderson-do-amaral-curso-java-e-jpa-persistir-seus-objetos-com-a-jpa2-e-hibernate-alura.png" alt="Certificado 5" />
+  <img src="certificate_alura_full.png" alt="Certificado 3" />
+  <img src="jose-edwanderson-do-amaral-curso-ejb-com-java-ee-8-api-rest-com-wildfly-15-alura.png" alt="Certificado 3" />
+  <img src="jose-edwanderson-do-amaral-curso-java-e-jpa-otimizacoes-com-jpa2-e-hibernate-alura.png" alt="Certificado 4" />
+  <img src="jose-edwanderson-do-amaral-curso-java-e-jpa-persistir-seus-objetos-com-a-jpa2-e-hibernate-alura.png" alt="Certificado 5" />
 </p>
 
-- ## [Alura Shift-Android](./certificates/certificate_android_shift.png)
+- ## [Alura Shift-Android](certificate_android_shift.png)
 <p align="left">
-  <img src="./certificates/certificate_android_shift.png" alt="Certificado 2" />
+  <img src="certificate_android_shift.png" alt="Certificado 2" />
 </p>
 
 - ## [DIO](https://www.dio.me/users/andersonlinker)
