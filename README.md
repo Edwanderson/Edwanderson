@@ -52,8 +52,7 @@ Aplicação ERP completa desenvolvida com Java Spring Boot.
 - **Ciência da Computação** - Universidade Cruzeiro do Sul
 
 
-
-## 🚀 Certificações
+## 🚀 [Certificações](./certificates/README.md)
 
 - ## [Alura](https://cursos.alura.com.br/user/jedwanderson/fullCertificate/bfbc7d1cc1e8935af3a182cffc3078ac)
 <p align="left">
