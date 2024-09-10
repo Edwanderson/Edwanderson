@@ -57,43 +57,43 @@ Aplicação ERP completa desenvolvida com Java Spring Boot.
 
 - ## [Alura](https://cursos.alura.com.br/user/jedwanderson/fullCertificate/bfbc7d1cc1e8935af3a182cffc3078ac)
 <p align="left">
-  <img src="./certificates/jose-edwanderson-do-amaral-curso-ejb-com-java-ee-8-api-rest-com-wildfly-15-alura.png" alt="Certificado 3" width="width="250""/>
-  <img src="./certificates/jose-edwanderson-do-amaral-curso-java-e-jpa-otimizacoes-com-jpa2-e-hibernate-alura.png" alt="Certificado 4" width="width="250""/>
-  <img src="./certificates/jose-edwanderson-do-amaral-curso-java-e-jpa-persistir-seus-objetos-com-a-jpa2-e-hibernate-alura.png" alt="Certificado 5" width="width="250""/>
+  <img src="./certificates/jose-edwanderson-do-amaral-curso-ejb-com-java-ee-8-api-rest-com-wildfly-15-alura.png" alt="Certificado 3" width="width="250"/>
+  <img src="./certificates/jose-edwanderson-do-amaral-curso-java-e-jpa-otimizacoes-com-jpa2-e-hibernate-alura.png" alt="Certificado 4" width="width="250"/>
+  <img src="./certificates/jose-edwanderson-do-amaral-curso-java-e-jpa-persistir-seus-objetos-com-a-jpa2-e-hibernate-alura.png" alt="Certificado 5" width="width="250"/>
 </p>
 
 - ## [Alura Shift-Android](./certificates/certificate_android_shift.png)
 <p align="left">
-  <img src="./certificates/certificate_android_shift.png" alt="Certificado 2" width="width="250""/>
+  <img src="./certificates/certificate_android_shift.png" alt="Certificado 2" width="width="250"/>
 </p>
 
 - ## [DIO](https://www.dio.me/users/andersonlinker)
 <p align="left">
-  <img src="https://hermes.dio.me/certificates/cover/0OXN0TLL.jpg" alt="Certificado 1" width="width="250""/>
-  <img src="https://hermes.dio.me/certificates/cover/HITAK8GU.jpg" alt="Certificado 2" width="width="250""/>
-  <img src="https://hermes.dio.me/certificates/cover/26N8AJGI.jpg" alt="Certificado 3" width="width="250""/>
-  <img src="https://hermes.dio.me/certificates/cover/WKJQAI4E.jpg" alt="Certificado 4" width="width="250""/>
-  <img src="https://hermes.dio.me/certificates/cover/IAX6DPOS.jpg" alt="Certificado 5" width="width="250""/>
+  <img src="https://hermes.dio.me/certificates/cover/0OXN0TLL.jpg" alt="Certificado 1" width="width="250"/>
+  <img src="https://hermes.dio.me/certificates/cover/HITAK8GU.jpg" alt="Certificado 2" width="width="250"/>
+  <img src="https://hermes.dio.me/certificates/cover/26N8AJGI.jpg" alt="Certificado 3" width="width="250"/>
+  <img src="https://hermes.dio.me/certificates/cover/WKJQAI4E.jpg" alt="Certificado 4" width="width="250"/>
+  <img src="https://hermes.dio.me/certificates/cover/IAX6DPOS.jpg" alt="Certificado 5" width="width="250"/>
 
-  <img src="https://hermes.dio.me/certificates/cover/QIF2MEIF.jpg" alt="Certificado 6" width="width="250""/>
-  <img src="https://hermes.dio.me/certificates/cover/DE5N4B6U.jpg" alt="Certificado 7" width="width="250""/>
-  <img src="https://hermes.dio.me/certificates/cover/AXIVHZKQ.jpg" alt="Certificado 8" width="width="250""/>
-  <img src="https://hermes.dio.me/certificates/cover/AY330XCO.jpg" alt="Certificado 9" width="width="250""/>
-  <img src="https://hermes.dio.me/certificates/cover/TEMCIDWV.jpg" alt="Certificado 10" width="width="250""/>
+  <img src="https://hermes.dio.me/certificates/cover/QIF2MEIF.jpg" alt="Certificado 6" width="width="250"/>
+  <img src="https://hermes.dio.me/certificates/cover/DE5N4B6U.jpg" alt="Certificado 7" width="width="250"/>
+  <img src="https://hermes.dio.me/certificates/cover/AXIVHZKQ.jpg" alt="Certificado 8" width="width="250"/>
+  <img src="https://hermes.dio.me/certificates/cover/AY330XCO.jpg" alt="Certificado 9" width="width="250"/>
+  <img src="https://hermes.dio.me/certificates/cover/TEMCIDWV.jpg" alt="Certificado 10" width="width="250"/>
 
-  <img src="https://hermes.dio.me/certificates/cover/P0AGROPM.jpg" alt="Certificado 11" width="width="250""/>
-  <img src="https://hermes.dio.me/certificates/cover/E0SAFWKZ.jpg" alt="Certificado 12" width="width="250""/>
-  <img src="https://hermes.dio.me/certificates/cover/7T4CNORP.jpg" alt="Certificado 13" width="width="250""/>
-  <img src="https://hermes.dio.me/certificates/cover/BZRB3LAS.jpg" alt="Certificado 14" width="width="250""/>
-  <img src="https://hermes.dio.me/certificates/cover/TE0EGMJJ.jpg" alt="Certificado 15" width="width="250""/>
+  <img src="https://hermes.dio.me/certificates/cover/P0AGROPM.jpg" alt="Certificado 11" width="width="250"/>
+  <img src="https://hermes.dio.me/certificates/cover/E0SAFWKZ.jpg" alt="Certificado 12" width="width="250"/>
+  <img src="https://hermes.dio.me/certificates/cover/7T4CNORP.jpg" alt="Certificado 13" width="width="250"/>
+  <img src="https://hermes.dio.me/certificates/cover/BZRB3LAS.jpg" alt="Certificado 14" width="width="250"/>
+  <img src="https://hermes.dio.me/certificates/cover/TE0EGMJJ.jpg" alt="Certificado 15" width="width="250"/>
 
-  <img src="https://hermes.dio.me/certificates/cover/LLSCA9PU.jpg" alt="Certificado 16" width="width="250""/>
-  <img src="https://hermes.dio.me/certificates/cover/FYLDRD4P.jpg" alt="Certificado 17" width="width="250""/>
-  <img src="https://hermes.dio.me/certificates/cover/MPTECVSP.jpg" alt="Certificado 18" width="width="250""/>
-  <img src="https://hermes.dio.me/certificates/cover/0LO4TIOX.jpg" alt="Certificado 19" width="width="250""/>
-  <img src="https://hermes.dio.me/certificates/cover/BY1CDNUW.jpg" alt="Certificado 20" width="width="250""/>
+  <img src="https://hermes.dio.me/certificates/cover/LLSCA9PU.jpg" alt="Certificado 16" width="width="250"/>
+  <img src="https://hermes.dio.me/certificates/cover/FYLDRD4P.jpg" alt="Certificado 17" width="width="250"/>
+  <img src="https://hermes.dio.me/certificates/cover/MPTECVSP.jpg" alt="Certificado 18" width="width="250"/>
+  <img src="https://hermes.dio.me/certificates/cover/0LO4TIOX.jpg" alt="Certificado 19" width="width="250"/>
+  <img src="https://hermes.dio.me/certificates/cover/BY1CDNUW.jpg" alt="Certificado 20" width="width="250"/>
 
-  <img src="https://hermes.dio.me/certificates/cover/ZR9ESIGK.jpg" alt="Certificado 21" width="width="250""/>
-  <img src="https://hermes.dio.me/certificates/cover/H5ZWYZ9A.jpg" alt="Certificado 22" width="width="250""/>
-  <img src="https://hermes.dio.me/certificates/cover/FPBZRGCF.jpg" alt="Certificado 23" width="width="250""/>
+  <img src="https://hermes.dio.me/certificates/cover/ZR9ESIGK.jpg" alt="Certificado 21" width="width="250"/>
+  <img src="https://hermes.dio.me/certificates/cover/H5ZWYZ9A.jpg" alt="Certificado 22" width="width="250"/>
+  <img src="https://hermes.dio.me/certificates/cover/FPBZRGCF.jpg" alt="Certificado 23" width="width="250"/>
 </p>
