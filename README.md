@@ -25,9 +25,16 @@ Aplicação ERP completa desenvolvida com Java Spring Boot.
 - **Ciência da Computação** - Universidade Cruzeiro do Sul
 
 ## Cerfificados Alura
+<p align="left">
+  <img src="./certificates/certificate_alura_full.png" alt="Certificado 1" width="160"/>
+  <img src="./certificates/certificate_android_shift.png" alt="Certificado 2" width="160"/>
+  <img src="./certificates/jose-edwanderson-do-amaral-curso-ejb-com-java-ee-8-api-rest-com-wildfly-15-alura.png" alt="Certificado 3" width="160"/>
+  <img src="./certificates/jose-edwanderson-do-amaral-curso-java-e-jpa-otimizacoes-com-jpa2-e-hibernate-alura.png" alt="Certificado 4" width="160"/>
+  <img src="./certificates/jose-edwanderson-do-amaral-curso-java-e-jpa-persistir-seus-objetos-com-a-jpa2-e-hibernate-alura.png" alt="Certificado 5" width="160"/>
+</p>
+
 
 ## Cerfificados DIO
-
 <p align="left">
   <img src="https://hermes.dio.me/certificates/cover/0OXN0TLL.jpg" alt="Certificado 1" width="160"/>
   <img src="https://hermes.dio.me/certificates/cover/HITAK8GU.jpg" alt="Certificado 2" width="160"/>
