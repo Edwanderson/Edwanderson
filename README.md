@@ -1,4 +1,4 @@
-# José Edwanderson Amaral (Bob)
+# José Edwanderson do Amaral
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/edwanderson)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Edwanderson)
