@@ -3,7 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/edwanderson)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Edwanderson)
 
-Olá! Eu sou José, um Desenvolvedor com experiência em criar soluções no ramo Industrial, principalmente focadas em back-end e integração de sistemas. Tenho um forte background em Java e Spring Boot, além de habilidades em desenvolvimento Android e gerenciamento de bancos de dados.
+Olá! 
+Eu sou José, um Desenvolvedor com experiência em criar soluções no ramo Industrial, principalmente focadas em back-end e integração de sistemas. Tenho um forte background em Java e Spring Boot, além de habilidades em desenvolvimento Android e gerenciamento de bancos de dados.
 
 ## 🛠️ Competências Técnicas
 
