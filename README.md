@@ -68,37 +68,53 @@ Aplicação ERP completa desenvolvida com Java Spring Boot.
 </p>
 
 - ## [DIO](https://www.dio.me/users/andersonlinker)
-<p align="left">
-  <img src="https://hermes.dio.me/certificates/cover/0OXN0TLL.jpg" alt="Certificado 1" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/HITAK8GU.jpg" alt="Certificado 2" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/26N8AJGI.jpg" alt="Certificado 3" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/WKJQAI4E.jpg" alt="Certificado 4" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/IAX6DPOS.jpg" alt="Certificado 5" width="250"/>
-
-  <img src="https://hermes.dio.me/certificates/cover/QIF2MEIF.jpg" alt="Certificado 6" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/DE5N4B6U.jpg" alt="Certificado 7" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/AXIVHZKQ.jpg" alt="Certificado 8" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/AY330XCO.jpg" alt="Certificado 9" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/TEMCIDWV.jpg" alt="Certificado 10" width="250"/>
-
-  <img src="https://hermes.dio.me/certificates/cover/P0AGROPM.jpg" alt="Certificado 11" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/E0SAFWKZ.jpg" alt="Certificado 12" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/7T4CNORP.jpg" alt="Certificado 13" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/BZRB3LAS.jpg" alt="Certificado 14" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/TE0EGMJJ.jpg" alt="Certificado 15" width="250"/>
-
-  <img src="https://hermes.dio.me/certificates/cover/LLSCA9PU.jpg" alt="Certificado 16" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/FYLDRD4P.jpg" alt="Certificado 17" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/MPTECVSP.jpg" alt="Certificado 18" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/0LO4TIOX.jpg" alt="Certificado 19" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/BY1CDNUW.jpg" alt="Certificado 20" width="250"/>
-
-  <img src="https://hermes.dio.me/certificates/cover/ZR9ESIGK.jpg" alt="Certificado 21" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/H5ZWYZ9A.jpg" alt="Certificado 22" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/FPBZRGCF.jpg" alt="Certificado 23" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/OTXKSK58.jpg" alt="Certificado 23" width="250"/>
-  <img src="https://hermes.dio.me/certificates/cover/TO7UZFCT.jpg" alt="Certificado 23" width="250"/>
+- Claro - Java com Spring Boot
+  - Introdução ao Ambiente Java e Projetos Colaborativos 
+  <p align="left">
+    <img src="https://hermes.dio.me/certificates/cover/0OXN0TLL.jpg" alt="Certificado 1" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/DE5N4B6U.jpg" alt="Certificado 7" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/HITAK8GU.jpg" alt="Certificado 2" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/26N8AJGI.jpg" alt="Certificado 3" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/WKJQAI4E.jpg" alt="Certificado 4" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/IAX6DPOS.jpg" alt="Certificado 5" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/QIF2MEIF.jpg" alt="Certificado 6" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/AXIVHZKQ.jpg" alt="Certificado 8" width="250"/>
+  </p>
   
-  <img src="https://hermes.dio.me/certificates/cover/G2FA4LLZ.jpg" alt="Certificado 23" width="250"/>
+  - Sintaxe Básica com Java   
+  <p align="left">        
+    <img src="https://hermes.dio.me/certificates/cover/AY330XCO.jpg" alt="Certificado 9" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/TEMCIDWV.jpg" alt="Certificado 10" width="250"/>  
+    <img src="https://hermes.dio.me/certificates/cover/P0AGROPM.jpg" alt="Certificado 11" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/E0SAFWKZ.jpg" alt="Certificado 12" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/7T4CNORP.jpg" alt="Certificado 13" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/BZRB3LAS.jpg" alt="Certificado 14" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/TE0EGMJJ.jpg" alt="Certificado 15" width="250"/>  
+    <img src="https://hermes.dio.me/certificates/cover/LLSCA9PU.jpg" alt="Certificado 16" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/FYLDRD4P.jpg" alt="Certificado 17" width="250"/>
+  </p>
 
-</p>
+  - Programação Orientada a Objetos com Java
+  <p align="left">    
+    <img src="https://hermes.dio.me/certificates/cover/MPTECVSP.jpg" alt="Certificado 18" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/0LO4TIOX.jpg" alt="Certificado 19" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/BY1CDNUW.jpg" alt="Certificado 20" width="250"/>  
+    <img src="https://hermes.dio.me/certificates/cover/ZR9ESIGK.jpg" alt="Certificado 21" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/H5ZWYZ9A.jpg" alt="Certificado 22" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/FPBZRGCF.jpg" alt="Certificado 23" width="250"/>
+  </p>
+  
+  - Testes e Gerenciamento de Dependências em Projetos Java
+  <p align="left">
+    <img src="https://hermes.dio.me/certificates/cover/OTXKSK58.jpg" alt="Certificado 24" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/YWDDDNJQ.jpg" alt="Certificado 25" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/TO7UZFCT.jpg" alt="Certificado 26" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/G2FA4LLZ.jpg" alt="Certificado 27" width="250"/>
+  </p>
+
+  - Banco de Dados SQL e NoSQL Para Desenvolvedores Back-end
+   <p align="left">
+    <img src="https://hermes.dio.me/certificates/cover/QKN3WOMO.jpg" alt="Certificado 28" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/A0WDTPCF.jpg" alt="Certificado 29" width="250"/>
+  </p>
+
