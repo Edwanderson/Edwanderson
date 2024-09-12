@@ -40,8 +40,12 @@
   <img src="https://hermes.dio.me/certificates/cover/ZR9ESIGK.jpg" alt="Certificado 21" />
   <img src="https://hermes.dio.me/certificates/cover/H5ZWYZ9A.jpg" alt="Certificado 22" />
   <img src="https://hermes.dio.me/certificates/cover/FPBZRGCF.jpg" alt="Certificado 23" />
-  <img src="https://hermes.dio.me/certificates/cover/OTXKSK58.jpg" alt="Certificado 23" />
-  <img src="https://hermes.dio.me/certificates/cover/TO7UZFCT.jpg" alt="Certificado 23" />
+
+  <img src="https://hermes.dio.me/certificates/cover/OTXKSK58.jpg" />
+  <img src="https://hermes.dio.me/certificates/cover/YWDDDNJQ.jpg" />
+  <img src="https://hermes.dio.me/certificates/cover/TO7UZFCT.jpg" />
+  <img src="https://hermes.dio.me/certificates/cover/G2FA4LLZ.jpg" />
   
-  <img src="https://hermes.dio.me/certificates/cover/G2FA4LLZ.jpg" alt="Certificado 23" />
+  <img src="https://hermes.dio.me/certificates/cover/QKN3WOMO.jpg" />
+  <img src="https://hermes.dio.me/certificates/cover/A0WDTPCF.jpg" />
 </p>
