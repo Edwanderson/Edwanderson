@@ -53,23 +53,24 @@ Aplicação ERP completa desenvolvida com Java Spring Boot.
 - **Ciência da Computação** - Universidade Cruzeiro do Sul
 
 
+
 ## 🚀 [Certificações](./certificates/README.md)
 
-- ## [Alura](https://cursos.alura.com.br/user/jedwanderson/fullCertificate/bfbc7d1cc1e8935af3a182cffc3078ac)
+- ###  [Alura](https://cursos.alura.com.br/user/jedwanderson/fullCertificate/bfbc7d1cc1e8935af3a182cffc3078ac)
 <p align="left">
   <img src="./certificates/jose-edwanderson-do-amaral-curso-ejb-com-java-ee-8-api-rest-com-wildfly-15-alura.png" alt="Certificado 3" width="250"/>
   <img src="./certificates/jose-edwanderson-do-amaral-curso-java-e-jpa-otimizacoes-com-jpa2-e-hibernate-alura.png" alt="Certificado 4" width="250"/>
   <img src="./certificates/jose-edwanderson-do-amaral-curso-java-e-jpa-persistir-seus-objetos-com-a-jpa2-e-hibernate-alura.png" alt="Certificado 5" width="250"/>
 </p>
 
-- ## [Alura Shift-Android](./certificates/certificate_android_shift.png)
+- ###  [Alura Shift-Android](./certificates/certificate_android_shift.png)
 <p align="left">
   <img src="./certificates/certificate_android_shift.png" alt="Certificado 2" width="250"/>
 </p>
 
-- ## [DIO](https://www.dio.me/users/andersonlinker)
-- Claro - Java com Spring Boot
-  - Introdução ao Ambiente Java e Projetos Colaborativos 
+- ###  [DIO](https://www.dio.me/users/andersonlinker)
+- #### Claro - Java com Spring Boot
+  - ##### Introdução ao Ambiente Java e Projetos Colaborativos 
   <p align="left">
     <img src="https://hermes.dio.me/certificates/cover/0OXN0TLL.jpg" alt="Certificado 1" width="250"/>
     <img src="https://hermes.dio.me/certificates/cover/DE5N4B6U.jpg" alt="Certificado 7" width="250"/>
@@ -81,7 +82,7 @@ Aplicação ERP completa desenvolvida com Java Spring Boot.
     <img src="https://hermes.dio.me/certificates/cover/AXIVHZKQ.jpg" alt="Certificado 8" width="250"/>
   </p>
   
-  - Sintaxe Básica com Java   
+  - ##### Sintaxe Básica com Java   
   <p align="left">        
     <img src="https://hermes.dio.me/certificates/cover/AY330XCO.jpg" alt="Certificado 9" width="250"/>
     <img src="https://hermes.dio.me/certificates/cover/TEMCIDWV.jpg" alt="Certificado 10" width="250"/>  
@@ -94,7 +95,7 @@ Aplicação ERP completa desenvolvida com Java Spring Boot.
     <img src="https://hermes.dio.me/certificates/cover/FYLDRD4P.jpg" alt="Certificado 17" width="250"/>
   </p>
 
-  - Programação Orientada a Objetos com Java
+  - ##### Programação Orientada a Objetos com Java
   <p align="left">    
     <img src="https://hermes.dio.me/certificates/cover/MPTECVSP.jpg" alt="Certificado 18" width="250"/>
     <img src="https://hermes.dio.me/certificates/cover/0LO4TIOX.jpg" alt="Certificado 19" width="250"/>
@@ -104,7 +105,7 @@ Aplicação ERP completa desenvolvida com Java Spring Boot.
     <img src="https://hermes.dio.me/certificates/cover/FPBZRGCF.jpg" alt="Certificado 23" width="250"/>
   </p>
   
-  - Testes e Gerenciamento de Dependências em Projetos Java
+  - ##### Testes e Gerenciamento de Dependências em Projetos Java
   <p align="left">
     <img src="https://hermes.dio.me/certificates/cover/OTXKSK58.jpg" alt="Certificado 24" width="250"/>
     <img src="https://hermes.dio.me/certificates/cover/YWDDDNJQ.jpg" alt="Certificado 25" width="250"/>
@@ -112,7 +113,7 @@ Aplicação ERP completa desenvolvida com Java Spring Boot.
     <img src="https://hermes.dio.me/certificates/cover/G2FA4LLZ.jpg" alt="Certificado 27" width="250"/>
   </p>
 
-  - Banco de Dados SQL e NoSQL Para Desenvolvedores Back-end
+  - ##### Banco de Dados SQL e NoSQL Para Desenvolvedores Back-end
    <p align="left">
     <img src="https://hermes.dio.me/certificates/cover/QKN3WOMO.jpg" alt="Certificado 28" width="250"/>
     <img src="https://hermes.dio.me/certificates/cover/A0WDTPCF.jpg" alt="Certificado 29" width="250"/>
