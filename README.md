@@ -116,6 +116,19 @@ Aplicação ERP completa desenvolvida com Java Spring Boot.
   - ##### Banco de Dados SQL e NoSQL Para Desenvolvedores Back-end
    <p align="left">
     <img src="https://hermes.dio.me/certificates/cover/QKN3WOMO.jpg" alt="Certificado 28" width="250"/>
-    <img src="https://hermes.dio.me/certificates/cover/A0WDTPCF.jpg" alt="Certificado 29" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/A0WDTPCF.jpg" alt="Certificado 29" width="250"/>    
   </p>
+
+ - ##### Ganhando Produtividade no Java com Spring Framework
+   <p align="left">
+    <img src="https://hermes.dio.me/certificates/cover/HHGQME4W.jpg" alt="Certificado 29" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/P75JIBOB.jpg" alt="Certificado 29" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/8ACNWT5Q.jpg" alt="Certificado 29" width="250"/>
+    <img src="https://hermes.dio.me/certificates/cover/VOPYIHXX.jpg" alt="Certificado 29" width="250"/>
+  </p>
+
+
+  
+
+
 
