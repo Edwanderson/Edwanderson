@@ -48,4 +48,10 @@
   
   <img src="https://hermes.dio.me/certificates/cover/QKN3WOMO.jpg" />
   <img src="https://hermes.dio.me/certificates/cover/A0WDTPCF.jpg" />
+
+  <img src="https://hermes.dio.me/certificates/cover/HHGQME4W.jpg" />
+  <img src="https://hermes.dio.me/certificates/cover/P75JIBOB.jpg" />
+  <img src="https://hermes.dio.me/certificates/cover/8ACNWT5Q.jpg" />
+  <img src="https://hermes.dio.me/certificates/cover/VOPYIHXX.jpg" />
+
 </p>
