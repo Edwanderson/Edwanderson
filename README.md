@@ -48,28 +48,6 @@ Aplicação ERP completa desenvolvida com Java Spring Boot.
 
 [![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwanderson&layout=compact&theme=dracula)](https://github.com/Edwanderson/github-readme-stats)
 
-## 🎓 Formação
-
-- **Ciência da Computação** - Universidade Cruzeiro do Sul
-
-
-
-## 🚀 [Certificações](./certificates/README.md)
-
-- ###  [Alura](https://cursos.alura.com.br/user/jedwanderson/fullCertificate/bfbc7d1cc1e8935af3a182cffc3078ac)
-<p align="left">
-  <img src="./certificates/jose-edwanderson-do-amaral-curso-ejb-com-java-ee-8-api-rest-com-wildfly-15-alura.png" alt="Certificado 3" width="250"/>
-  <img src="./certificates/jose-edwanderson-do-amaral-curso-java-e-jpa-otimizacoes-com-jpa2-e-hibernate-alura.png" alt="Certificado 4" width="250"/>
-  <img src="./certificates/jose-edwanderson-do-amaral-curso-java-e-jpa-persistir-seus-objetos-com-a-jpa2-e-hibernate-alura.png" alt="Certificado 5" width="250"/>
-</p>
-
-- ###  [Alura Shift-Android](./certificates/certificate_android_shift.png)
-<p align="left">
-  <img src="./certificates/certificate_android_shift.png" alt="Certificado 2" width="250"/>
-</p>
-
-- ###  [DIO](https://www.dio.me/users/andersonlinker)
-> #### Claro - Java com Spring Boot
 
 
 
