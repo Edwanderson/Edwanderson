@@ -36,17 +36,6 @@ Aplicação ERP completa desenvolvida com Java Spring Boot.
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub de Edwanderson](https://github-readme-stats.vercel.app/api?username=Edwanderson&show_icons=true&theme=dracula)
-
-## 🔥 Contribuições Recentes
-
-[![Contribuições de Edwanderson](https://github-readme-streak-stats.herokuapp.com/?user=Edwanderson&theme=dracula)](https://git.io/streak-stats)
-
-## 📈 Linguagens Mais Utilizadas
-
-[![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwanderson&layout=compact&theme=dracula)](https://github.com/Edwanderson/github-readme-stats)
 
 
 
