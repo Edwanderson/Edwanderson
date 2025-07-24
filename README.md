@@ -28,7 +28,7 @@ Aplicação ERP completa desenvolvida com Java Spring Boot.
   - **Supervisor de Sistemas** (Setembro 2019 - Junho 2023)
   - **Analista de Sistemas** (Março 2019 - Setembro 2019)
 
-###⚡ Tecnologias Utilizadas
+### ⚡ Tecnologias Utilizadas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
