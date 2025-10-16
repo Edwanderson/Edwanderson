@@ -1,8 +1,15 @@
-
+<div align="left">
 <h3>👋 Olá, eu sou <a href="https://github.com/Edwanderson">José Edwanderson (Bob)</a></h3>
+</div>
 
+<a href="https://www.linkedin.com/in/edwanderson">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"/>
+</a>
 
-<p>🚀 Bem-vindo ao meu espaço no GitHub!</p>
+<br/>
+<br/>
+
+<p>✨ Bem-vindo ao meu espaço no GitHub!</p>
 
 <p>
 Sou <b>Desenvolvedor Java</b> com foco em <b>sistemas industriais</b>, atuando em projetos de <b>back-end</b>, <b>integração de sistemas</b> e <b>automação de processos</b>.<br/>
