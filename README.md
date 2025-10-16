@@ -71,6 +71,17 @@ Trabalho com <b>Spring Boot</b>, <b>Android</b> e <b>bancos de dados relacionais
         <!-- Segurança e Integração -->
         <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=openid&logoColor=white"/>
         <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+        <!-- Web Services / APIs -->
+        <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SOAP_WebService-1D76DB?style=for-the-badge&logo=xml&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=webhooks&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+        <img src="https://img.shields.io/badge/XML-8B0000?style=for-the-badge&logo=xml&logoColor=white"/>
+        <!-- Integrações e Dispositivos -->
+        <img src="https://img.shields.io/badge/Zebra_Technologies-000000?style=for-the-badge&logo=zebra&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Intelbras-009639?style=for-the-badge&logoColor=white"/>
+        <img src="https://img.shields.io/badge/IoT_Devices-FF9900?style=for-the-badge&logo=arduino&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Automation_Systems-0078D7?style=for-the-badge&logo=homeassistant&logoColor=white"/>
         <!-- IDEs -->
         <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
       </p>
@@ -101,6 +112,7 @@ Trabalho com <b>Spring Boot</b>, <b>Android</b> e <b>bancos de dados relacionais
     </td>
   </tr>
 </table>
+
 
 
 
