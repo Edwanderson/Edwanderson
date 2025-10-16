@@ -17,11 +17,11 @@ Trabalho com <b>Spring Boot</b>, <b>Android</b> e <b>bancos de dados relacionais
 
 <h1></h1>
 
-<a href="https://github.com/Edwanderson">
-  <img src="https://img.shields.io/badge/GitHub-Edwanderson-black?style=flat-square&logo=github"/>
-</a>
 <a href="https://www.linkedin.com/in/edwanderson">
   <img src="https://img.shields.io/badge/LinkedIn-Edwanderson-blue?style=flat-square&logo=linkedin"/>
+</a>
+<a href="https://github.com/Edwanderson">
+  <img src="https://img.shields.io/badge/GitHub-Edwanderson-black?style=flat-square&logo=github"/>
 </a>
 <a href="mailto:contato@primefactory.app">
   <img src="https://img.shields.io/badge/Email-contato@primefactory.app-red?style=flat-square&logo=gmail"/>
