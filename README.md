@@ -48,7 +48,7 @@ Trabalho com <b>Spring Boot</b>, <b>Android</b> e <b>bancos de dados relacionais
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h4>⚙️ Tecnologias que utilizo</h4>
       <p align="left">
         <!-- Linguagens -->
@@ -84,11 +84,6 @@ Trabalho com <b>Spring Boot</b>, <b>Android</b> e <b>bancos de dados relacionais
         <img src="https://img.shields.io/badge/Automation_Systems-0078D7?style=for-the-badge&logo=homeassistant&logoColor=white"/>
         <!-- IDEs -->
         <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>✅ Qualidade • Testes • CI/CD</h4>
-      <p align="left">
         <!-- Testes -->
         <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
         <img src="https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge&logo=mockito&logoColor=white"/>
