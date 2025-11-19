@@ -1,5 +1,5 @@
 <div align="left">
-<h3>👋 Olá, eu sou <a href="https://www.linkedin.com/in/edwanderson">José Edwanderson (Bob)</a></h3>
+<h3>👋 Olá, sou <a href="https://www.linkedin.com/in/edwanderson">José Edwanderson (Bob)</a></h3>
 </div>
 
 
