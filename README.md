@@ -43,7 +43,6 @@ Trabalho com <b>Spring Boot</b>, <b>Android</b> e <b>bancos de dados relacionais
 </tr>
 </table>
 
----
 -->
 
 <table align="center">
