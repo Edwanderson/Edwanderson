@@ -106,7 +106,3 @@ Trabalho com <b>Spring Boot</b>, <b>Android</b> e <b>bancos de dados relacionais
     </td>
   </tr>
 </table>
-
-
-
-
